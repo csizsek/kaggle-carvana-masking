@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 resources/
+*.csv
+*.zip
